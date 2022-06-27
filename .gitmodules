@@ -1,3 +1,6 @@
 [submodule "repo2"]
 	path = repo2
 	url = https://github.com/chowdary-coder/repo2.git
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/chowdary-coder/repo3.git
